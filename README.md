@@ -8,6 +8,9 @@ Wonder what scores of precision can you achieve with different angles of data cl
 This classifier includes:
 
 Naive Bayes
+
 Decision Tree
+
 K-Nearest Neighbors
+
 K-Means
