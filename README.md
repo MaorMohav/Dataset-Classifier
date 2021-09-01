@@ -3,14 +3,15 @@ Dataset Classifier - Data Mining course final project.
 
 
 # About The Project
+
 Wonder what scores of precision can you achieve with different angles of data classification? So in this project I managed to create semi-automat classifier of dataset (Numeric/Categorial) data.
 
 This classifier includes:
 
-Naive Bayes
+-   Naive Bayes
 
-Decision Tree
+-   Decision Tree
 
-K-Nearest Neighbors
+-   K-Nearest Neighbors
 
-K-Means
+-   K-Means
